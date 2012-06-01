@@ -1,0 +1,14 @@
+{
+  "name": "LDAP and Name Services",
+  "sections": [
+    "0_title.md",
+    "0_agenda.md",
+    "1_railslove.md",
+    "2_step_into_economy.md",
+    "2_roles_of_a_scientist.md",
+    "3_scientist_and_biz.md",
+    "3_scientist_and_development.md",
+    "3_scientist_and_product.md",
+    "3_scientist_and_his_life.md"
+  ]
+}
