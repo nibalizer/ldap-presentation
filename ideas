@@ -1,0 +1,28 @@
+
+
+1) intro to name services, passd, shadow, group, others, nsswitch.conf
+2) intro to ldap as a datastore
+3) full example -> autofs
+4) connecting a clinet to ldap
+5) ldap server administration
+6) ldapmodify, ldif, ldapvi, crack
+automounter info
+nss alias
+
+
+ldapsearch foo
+
+nameless | Security. How do you lock down the server to the hosts you want it to speak to. 
+DaBAH | schema design decisions.  
+
+OID tangent
+
+DaBAH | Get 'em real comfy with quizzing it about users.
+
+
+Lab would be at the end.
+
+clarkb | nibalizer: something on the structure of an ldap db                          
+MaddHatter | replication and redundancy perhaps?                                          
+retrov | nibalizer: if you can, talk about linking LDAP to an IDM like OAM or CRACK   
+

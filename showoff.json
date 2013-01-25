@@ -3,12 +3,11 @@
   "sections": [
     "0_title.md",
     "0_agenda.md",
-    "1_railslove.md",
-    "2_step_into_economy.md",
-    "2_roles_of_a_scientist.md",
-    "3_scientist_and_biz.md",
-    "3_scientist_and_development.md",
-    "3_scientist_and_product.md",
-    "3_scientist_and_his_life.md"
+    "1_name_services.md",
+    "2_ldap_as_a_datastore.md",
+    "2_full_example_autofs.md",
+    "3_connecting_a_client.md",
+    "3_ldap_server_admin.md",
+    "3_ldapmodify_ldif_ldapvi_crack.md"
   ]
 }
